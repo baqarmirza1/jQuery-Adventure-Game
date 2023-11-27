@@ -1,0 +1,102 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+    color: #90699b;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    background-color: #de9ef0;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    color:#90699b;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+  padding-top: 10px;
+}
+
+.secondImage {
+    height: 350px;
+}
+
+.mitm {
+    height: 350px;
+}
+.loco{
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.Part-Two-Yes {
+    font-family: 'Coiny', cursive;
+}
+
+
+.Part-Two-No {
+    font-family: 'Coiny', cursive;
+}
+
+.Story-Ending-Yes {
+    font-family: 'Coiny', cursive;
+}
+
+.Story-Ending-No {
+    font-family: 'Coiny', cursive;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+.Part-Two-Yes{
+  display: none; 
+}
+.Part-Two-No{
+  display: none; 
+}
+.Story-Ending-Yes{
+  display: none; 
+}
+.Story-Ending-No{
+  display: none; 
+}
+.yes-button{
+background-color: #de9ef0;
+border: 3px solid black;
+}
+.no-button{background-color: #de9ef0;
+border: 3px solid black;
+}
+.restart{background-color: #de9ef0;
+border: 3px solid black;
+}
+.restart2{background-color: #de9ef0;
+border: 3px solid black;
+}
